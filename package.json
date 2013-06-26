@@ -1,0 +1,28 @@
+{
+  "name": "badminton",
+  "version": "0.0.0",
+  "description": "loop for the newest badminion info",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patbiti/badminton.git"
+  },
+  "keywords": [
+    "loop"
+  ],
+  "author": "patbiti",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "e4449e8068deeb840ea8a40a10956b1cb8e7ae8e",
+  "bugs": {
+    "url": "https://github.com/patbiti/badminton/issues"
+  },
+  "dependencies" : {
+    "argsparser" : "0.0.6",
+    "jsdom"  : "0.6.5",
+    "nodemailer" : "0.0.1"
+  }
+}
